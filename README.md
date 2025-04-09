@@ -78,6 +78,8 @@ Achievements:
 - Generated actionable insights that could help improve forecasting and market targeting for future releases.
 
 
+
+
 ![Python](https://img.shields.io/badge/Python-4A8BE9)
 ![R](https://img.shields.io/badge/R-10A1BE9) 
 ![SQL](https://img.shields.io/badge/SQL-FFA500) 
@@ -98,7 +100,11 @@ Achievements:
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9400D3) 
 ![Scripts](https://img.shields.io/badge/Scripts-FFFF00) 
 
+
+
 # 📫 Let’s Connect!
 📧 Email: etzer98@hotmail.com
+
 📱 Phone: (+52) 452-126-8846
+
 [Linkedin](https://www.linkedin.com/in/etzer-mares/)
