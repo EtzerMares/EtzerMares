@@ -19,7 +19,25 @@ Other Tools: Excel, Power BI
 
 Areas of Focus: Data Cleaning, Visualization, Machine Learning, KPI Analysis, Script Automation
 
-#📊 Recent Projects
+# 📊 Recent Projects
+
+📞 Telecom Efficiency Analysis
+Developed a data analysis project to identify inefficient call center operators by evaluating key performance metrics and testing data-driven hypotheses.
+
+Technologies Used: Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, SQL, Jupyter Notebook, statistical hypothesis testing, Tableau.
+
+Key Responsibilities:
+
+- Cleaned and transformed telecom data to calculate KPIs such as call drop rate, average wait time, and number of outgoing calls.
+- Performed exploratory data analysis (EDA) and segmentation to distinguish between efficient and inefficient operators.
+- Conducted statistical hypothesis testing to validate relationships between operator behavior and performance.
+- Created visual dashboards in Tableau to present findings and support decision-making.
+
+Achievements:
+
+- Confirmed key hypotheses linking long wait times and high call drop rates with poor operator performance.
+- Proposed actionable recommendations such as enhanced training and call routing optimization.
+- Delivered insights to support future predictive modeling for operator performance evaluation.
 
 
 ![Python](https://img.shields.io/badge/Python-4A8BE9)
