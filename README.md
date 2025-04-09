@@ -5,9 +5,13 @@ I’m passionate about solving real-world problems using data and eager to keep 
 
 # 🛠️ Technical Skills
 Languages & Tools: Python, SQL, R, C/C++, HTML
+
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy
+
 Platforms: Windows, Linux, ROS
+
 Other Tools: Excel, Power BI
+
 Areas of Focus: Data Cleaning, Visualization, Machine Learning, KPI Analysis, Script Automation
 
 
