@@ -3,9 +3,13 @@ I’m passionate about solving real-world problems using data and eager to keep 
 
 # 👨‍💻 About Me
 📍 Based in Morelia, Michoacán, Mexico
+
 🎓 Mechatronics Engineer from Tecnológico de Monterrey
+
 📚 Graduate of the TripleTen Data Analyst Bootcamp
+
 📈 Constantly learning and working on data-driven projects
+
 🚀 Passionate about analytics, business intelligence, and automation
 
 # 🛠️ Technical Skills
