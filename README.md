@@ -1,8 +1,17 @@
 # About me:
 
-I’ve spent a couple of years diving into the world of data analysis and I’m looking for ways to apply my knowledge and new skills. I have expertise in Python, SQL, R, HTML, Business Intelligence, among other things. I strive to keep learning new things all the time with the goal of growing in this field.
+Welcome to my GitHub profile! I’m a Data Analyst Jr and a Mechatronics Engineer based in Morelia, Michoacán, Mexico. Over the last few years, I’ve been fully dedicated to studying Data Analytics and Data Science, completing hands-on projects through the TripleTen Bootcamp and building a solid foundation in programming, statistics, and business intelligence.
+I’m passionate about solving real-world problems using data and eager to keep growing in this exciting field.
 
-## Skills:
+# 🛠️ Technical Skills
+Languages & Tools: Python, SQL, R, C/C++, HTML
+Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy
+Platforms: Windows, Linux, ROS
+Other Tools: Excel, Power BI
+Areas of Focus: Data Cleaning, Visualization, Machine Learning, KPI Analysis, Script Automation
+
+
+
 ![Python](https://img.shields.io/badge/Python-4A8BE9)
 ![R](https://img.shields.io/badge/R-10A1BE9) 
 ![SQL](https://img.shields.io/badge/SQL-FFA500) 
