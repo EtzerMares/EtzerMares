@@ -21,7 +21,8 @@ Areas of Focus: Data Cleaning, Visualization, Machine Learning, KPI Analysis, Sc
 
 # 📊 Recent Projects
 
-📞 Telecom Efficiency Analysis
+📞 Call Center Operator Efficiency Analysis
+
 Developed a data analysis project to identify inefficient call center operators by evaluating key performance metrics and testing data-driven hypotheses.
 
 Technologies Used: Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, SQL, Jupyter Notebook, statistical hypothesis testing, Tableau.
@@ -38,6 +39,43 @@ Achievements:
 - Confirmed key hypotheses linking long wait times and high call drop rates with poor operator performance.
 - Proposed actionable recommendations such as enhanced training and call routing optimization.
 - Delivered insights to support future predictive modeling for operator performance evaluation.
+
+🛒 User Behavior Analysis for a Food Startup App
+
+Analyzed user behavior data from a food delivery app to identify drop-off points in the sales funnel and assess the impact of a design change through an A/A/B test.
+Technologies Used: Python, pandas, Matplotlib, SciPy, SQL, Jupyter Notebook, statistics, A/B testing methodology.
+
+Key Responsibilities:
+
+- Cleaned and preprocessed mobile app event log data.
+- Conducted funnel analysis to identify conversion bottlenecks.
+- Performed statistical hypothesis testing (Z-test) to evaluate differences in engagement across control and experimental groups.
+- Created visualizations of user flows and key KPIs to support findings.
+
+Achievements:
+
+- Identified a significant drop-off between product view and checkout stages.
+- Provided evidence that the typography change had no statistically significant effect on conversion rates.
+- Delivered actionable recommendations to improve the user journey and optimize app performance.
+
+🎮 Video Game Sales Analysis
+
+Analyzed global video game sales data to uncover trends and key factors influencing sales across platforms and regions.
+
+Technologies Used: Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, statistical testing.
+
+Key Responsibilities:
+
+- Cleaned and prepared the dataset, including handling missing values and outliers.
+- Explored trends by platform, genre, and region through statistical summaries and visualizations.
+- Performed hypothesis testing to evaluate the relationship between user ratings and game sales.
+- Delivered insights to support data-driven marketing and release strategies.
+
+Achievements:
+
+- Identified that sales in North America and Europe were strongly influenced by game genre and platform.
+- Found no statistically significant correlation between user ratings and sales, guiding a shift in focus toward other performance drivers.
+- Generated actionable insights that could help improve forecasting and market targeting for future releases.
 
 
 ![Python](https://img.shields.io/badge/Python-4A8BE9)
